@@ -1,1 +1,1 @@
-https://docs.google.com/viewer?url=${file:///C:/Users/anyat/Downloads/TLA%20Mod%203%20README.pdf}
+https://docs.google.com/viewer?url=${https://drive.google.com/file/d/144T76y_3nOP-tEvc2pIcyb4tmfJSnZPi/view}
